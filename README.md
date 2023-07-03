@@ -8,7 +8,7 @@
 - Implementación de layouts flexibles y responsivos utilizando TailwindCSS, lo que garantiza que el sitio se adapte a diferentes dispositivos y tamaños de pantalla.
 - Opcionalmente puedes configurar un form personalizado en Getform.io para recibir mensajes.
 
-![View_APP](https://i.imgur.com/AydHSC0.png)
+![View_APP](https://i.imgur.com/c9GFjAW.png)
 
 
 ### Tecnologías utilizadas 🧑‍💻 
