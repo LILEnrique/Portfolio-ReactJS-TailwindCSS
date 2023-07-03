@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Portfolio ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![View_APP](https://i.imgur.com/3ztwi7d.png)
 
-## Available Scripts
+###Características:
+- Diseño moderno y atractivo con una interfaz intuitiva y fácil de usar.
+- Soporte para modo oscuro que proporciona una experiencia visual agradable incluso en entornos de poca luz.
+- Integración del apartado de contacto mediante Getform.io para que los visitantes puedan comunicarse conmigo fácilmente.
+- Animaciones suaves y elegantes utilizando AOS (Animate On Scroll) para resaltar elementos clave en el sitio.
+- Uso de componentes personalizados de DaisiUI para crear una interfaz coherente y atractiva.
+- Implementación de layouts flexibles y responsivos utilizando TailwindCSS, lo que garantiza que el sitio se adapte a diferentes dispositivos y tamaños de pantalla.
 
-In the project directory, you can run:
+###Tecnologías utilizadas:
+- ReactJS: Potente biblioteca JavaScript para construir interfaces de usuario interactivas y reutilizables.
+- TailwindCSS: Framework de CSS altamente personalizable que agiliza el desarrollo y ofrece un diseño consistente.
+- DaisiUI: Biblioteca de componentes React diseñados con estilo y personalización sencilla.
+- AOS (Animate On Scroll): Biblioteca de animaciones CSS que permite agregar efectos visuales llamativos a medida que los elementos se desplazan en la pantalla.
+- Getform.io: Plataforma de formularios de contacto que permite recibir y gestionar los mensajes de los visitantes de forma segura y sencilla.
+  
 
-### `npm start`
+Siéntete libre de personalizar y mejorar este portfolio de acuerdo a tus requerimientos y preferencias específicas. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Instalación 🔧
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Descarga de repositorios ✨
 
-### `npm test`
+A través del siguiente comando es posible descargar el repositorio con el siguiente comando:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+git clone https://github.com/LILEnrique/Portfolio-ReactJS-TailwindCSS
+```
 
-### `npm run build`
+Nota: Opcionalmente puedes configurar un form personalizado en Getform.io para recibir mensajes.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Desarrollado con ❤️ por [LILEnrique](https://github.com/LILEnrique) 😼
