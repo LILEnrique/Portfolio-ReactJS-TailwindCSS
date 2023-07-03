@@ -2,7 +2,7 @@
 
 ![View_APP](https://i.imgur.com/3ztwi7d.png)
 
-###Características:
+### Características:
 - Diseño moderno y atractivo con una interfaz intuitiva y fácil de usar.
 - Soporte para modo oscuro que proporciona una experiencia visual agradable incluso en entornos de poca luz.
 - Integración del apartado de contacto mediante Getform.io para que los visitantes puedan comunicarse conmigo fácilmente.
@@ -10,7 +10,7 @@
 - Uso de componentes personalizados de DaisiUI para crear una interfaz coherente y atractiva.
 - Implementación de layouts flexibles y responsivos utilizando TailwindCSS, lo que garantiza que el sitio se adapte a diferentes dispositivos y tamaños de pantalla.
 
-###Tecnologías utilizadas:
+### Tecnologías utilizadas:
 - ReactJS: Potente biblioteca JavaScript para construir interfaces de usuario interactivas y reutilizables.
 - TailwindCSS: Framework de CSS altamente personalizable que agiliza el desarrollo y ofrece un diseño consistente.
 - DaisiUI: Biblioteca de componentes React diseñados con estilo y personalización sencilla.
