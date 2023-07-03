@@ -3,7 +3,6 @@
 ### Características 📋 
 - Diseño moderno y atractivo con una interfaz intuitiva y fácil de usar.
 - Soporte para modo oscuro que proporciona una experiencia visual agradable incluso en entornos de poca luz.
-- Integración del apartado de contacto mediante Getform.io para que los visitantes puedan comunicarse conmigo fácilmente.
 - Animaciones suaves y elegantes utilizando AOS (Animate On Scroll) para resaltar elementos clave en el sitio.
 - Uso de componentes personalizados de DaisiUI para crear una interfaz coherente y atractiva.
 - Implementación de layouts flexibles y responsivos utilizando TailwindCSS, lo que garantiza que el sitio se adapte a diferentes dispositivos y tamaños de pantalla.
