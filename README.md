@@ -8,7 +8,7 @@
 - Uso de componentes personalizados de DaisiUI para crear una interfaz coherente y atractiva.
 - Implementación de layouts flexibles y responsivos utilizando TailwindCSS, lo que garantiza que el sitio se adapte a diferentes dispositivos y tamaños de pantalla.
 
-![View_APP](https://i.imgur.com/3ztwi7d.png)
+![View_APP](https://i.imgur.com/AydHSC0.png)
 
 
 ### Tecnologías utilizadas 🧑‍💻 
