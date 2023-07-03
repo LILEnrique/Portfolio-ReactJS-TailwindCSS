@@ -1,6 +1,6 @@
-# Portfolio ReactJS
+# Portfolio ReactJS 💼
 
-### Características:
+### Características 📋 :
 - Diseño moderno y atractivo con una interfaz intuitiva y fácil de usar.
 - Soporte para modo oscuro que proporciona una experiencia visual agradable incluso en entornos de poca luz.
 - Integración del apartado de contacto mediante Getform.io para que los visitantes puedan comunicarse conmigo fácilmente.
@@ -11,7 +11,7 @@
 ![View_APP](https://i.imgur.com/3ztwi7d.png)
 
 
-### Tecnologías utilizadas:
+### Tecnologías utilizadas 🧑‍💻 :
 - ReactJS: Potente biblioteca JavaScript para construir interfaces de usuario interactivas y reutilizables.
 - TailwindCSS: Framework de CSS altamente personalizable que agiliza el desarrollo y ofrece un diseño consistente.
 - DaisiUI: Biblioteca de componentes React diseñados con estilo y personalización sencilla.
