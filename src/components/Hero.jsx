@@ -35,7 +35,7 @@ const Hero = ({ darkMode }) => {
                 }`}
               data-aos="zoom-in"
             >
-              JOHN DOEEEE
+              JUANITO PEREZ
             </h1>
             <p className={`py-6 ${darkMode ? 'text-white' : 'text-black'}`} data-aos="zoom-in">
               Desarrollador de software
